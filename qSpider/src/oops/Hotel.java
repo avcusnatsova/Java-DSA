@@ -6,12 +6,14 @@ public class Hotel {
 	String foodname;
 	float rating;
 	
+	//Contructor
 	public Hotel(int price, String foodname, float rating) {
 		this.price = price;
 		this.foodname = foodname;
 		this.rating = rating;
 	}
 	
+	//method to display
 	public void display() {
 		System.out.println("Price:" + price);
 		System.out.println("Food:" + foodname);

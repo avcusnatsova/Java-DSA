@@ -10,6 +10,7 @@ public class Student {
 		Student s2 = new Student();
 		Student s3 = new Student();
 		//creating object without ref
+		
 		new Student();
 		new Student();
 		new Student();

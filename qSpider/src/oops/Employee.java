@@ -26,6 +26,7 @@ public class Employee {
 		System.out.println("Employee Name: " + emp.name);
 		System.out.println("Employee Age: " + emp.age);
 		
+		sc.close();
 		}
 	}
 }
