@@ -25,6 +25,15 @@ public class ClassLoading {
 		System.out.println("static multi-line initializer");
 	}
 	
+	public ClassLoading(int a, int b, int x, int y) {
+		this.a = a;
+		this.b = b;
+	}
+   public static  void staticmethod(){
+	   int x = 30;
+	   System.out.println(x);
+	}
+	
 	
 
 }
