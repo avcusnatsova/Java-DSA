@@ -36,6 +36,7 @@ public class BubbleSort {
 					int temp = arr[j+1];
 					arr[j+1] = arr[j];
 					arr[j] = temp;
+					swap = true;
 				}
 			}
 			//optimization to reduce the number of times the round runs

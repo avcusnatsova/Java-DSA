@@ -42,7 +42,7 @@ public class TwoSumTwoPointer {
 			}
 			
 			else if(sum < target) {
-				right ++;
+				left ++;
 			}
 	}
 		return new int[] {};
