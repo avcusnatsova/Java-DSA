@@ -7,10 +7,10 @@ public class Phone {
 	Sim s; // Lazy Instantiation
 	Battery b = new Battery();  // Early Instantiation
 	
-	public void insertsim() {
-		
-		s = new Sim();
-		System.out.println("Sim Inserted");
-	}
+//	public void insertsim() {
+//		
+//		s = new Sim();
+//		System.out.println("Sim Inserted");
+//	}
 
 }
