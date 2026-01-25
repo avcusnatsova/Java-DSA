@@ -2,9 +2,9 @@ package encapsulation;
 
 public class FatherSonTest {
 	public static void main(String[] args) {
-		Son s = new Son();
+		Son son = new Son();
 		
-		s.fatherName();
+		son.fatherName();
 	}
 
 }
