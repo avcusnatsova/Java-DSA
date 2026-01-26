@@ -5,6 +5,7 @@ public class FatherSonTest {
 		Son son = new Son();
 		
 		son.fatherName();
+		son.fatherName();
 	}
 
 }
