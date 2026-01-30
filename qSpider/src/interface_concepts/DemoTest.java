@@ -4,7 +4,7 @@ public class DemoTest {
 	public static void main(String[] args) {
 		System.out.println(First.a); //static variable inherited
 		
-		System.out.println(Demo.a); //inherited
+		System.out.println(Demo.a+"inherited"); //inherited
 		
 		Demo d = new Demo();
 		d.m1();
