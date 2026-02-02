@@ -26,7 +26,7 @@ public interface First {
 	
 	// 3.1 you can create static methods
 	static void m3() {
-		System.out.println("static method of first");
+		System.out.println("Static method of first");
 	}
 	
 	// 4. static methods will not be inherited
