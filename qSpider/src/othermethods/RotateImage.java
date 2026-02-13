@@ -32,10 +32,10 @@ public class RotateImage {
         int[] nums = {1, 2, 3, 4, 5, 6, 7};
         int k = 3;
 
-        System.out.println("Before Rotation: " + Arrays.toString(nums));
+        System.out.println("Array Before Rotation: " + Arrays.toString(nums));
 
         obj.rotate(nums, k);
 
-        System.out.println("After Rotation:  " + Arrays.toString(nums));
+        System.out.println("Array After Rotation:  " + Arrays.toString(nums));
     }
 }
