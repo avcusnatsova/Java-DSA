@@ -27,6 +27,6 @@ public class leetcode868 {
         int result = obj.binaryGap(n);
 
         System.out.println("Input: " + n);
-        System.out.println("Binary gap: " + result);
+        System.out.println("Binary Gap: " + result);
     }
 }
