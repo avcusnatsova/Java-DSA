@@ -18,6 +18,6 @@ public class leetcode1468 {
         int start = 3;
 
         int result = sol.xorOperation(n, start);
-        System.out.println("XOR Result: " + result);
+        System.out.println("XOR : " + result);
     }
 }
