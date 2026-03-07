@@ -20,6 +20,6 @@ public class leetcode1758 {
     public static void main(String[] args) {
         String s = "0100";  // Change input here
         int result = minOperations(s);
-        System.out.println("minimum operations needed: " + result);
+        System.out.println("Minimum operations needed: " + result);
     }
 }
