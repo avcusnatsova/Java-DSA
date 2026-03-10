@@ -40,7 +40,7 @@ public class leetcode2178 {
 	        Solution sol = new Solution();
 	        int result = sol.countPairs(nums, k);
 
-	        System.out.println("No of valid pairs: " + result);
+	        System.out.println("Number of valid pairs: " + result);
 
 	        sc.close();
 	    }
