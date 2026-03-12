@@ -19,6 +19,6 @@ public class bitmanipulation {
         int n = 5;
         int result = sol.bitwiseComplement(n);
 
-        System.out.println("Bitwise Complement of " + n + " is: " + result);
+        System.out.println("Bitwise complement of " + n + " is: " + result);
     }
 }
