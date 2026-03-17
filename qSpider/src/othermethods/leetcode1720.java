@@ -25,7 +25,7 @@ public class leetcode1720 {
         int[] result = obj.decode(encoded, first);
 
         for (int num : result) {
-            System.out.print(num + " ");
+            System.out.print("Output" + num + " ");
         }
     }
 }
