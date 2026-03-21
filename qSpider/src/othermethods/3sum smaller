@@ -1,5 +1,6 @@
 class Solution {
     public int threeSumSmaller(int[] nums, int target) {
+system.out.println("Threesum smaller");
        int count = 0;
        int n = nums.length;
        Arrays.sort(nums);
