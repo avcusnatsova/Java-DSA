@@ -28,7 +28,7 @@ public class oneDinto2D {
         // Print the 2D array
         for (int i = 0; i < result.length; i++) {
             for (int j = 0; j < result[i].length; j++) {
-                System.out.print("Result" + result[i][j] + " ");
+                System.out.print("result" + result[i][j] + " ");
             }
             System.out.println();
         }
