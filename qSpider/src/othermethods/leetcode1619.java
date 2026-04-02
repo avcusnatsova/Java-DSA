@@ -42,6 +42,6 @@ public class leetcode1619 {
 
         double result = sol.trimMean(arr);
 
-        System.out.println("Output trimmed mean: " + result);
+        System.out.println("output trimmed mean: " + result);
     }
 }
