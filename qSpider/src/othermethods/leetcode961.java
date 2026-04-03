@@ -20,6 +20,6 @@ public class leetcode961 {
     public static void main(String[] args) {
         leetcode961 obj = new leetcode961();
         int[] nums = {1, 2, 3, 3};
-        System.out.println("repeated : " + obj.repeatedNTimes(nums));  // Output: 3
+        System.out.println("Repeated : " + obj.repeatedNTimes(nums));  // Output: 3
     }
 }
