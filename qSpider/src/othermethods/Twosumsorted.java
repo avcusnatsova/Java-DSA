@@ -35,7 +35,7 @@ public class Twosumsorted {
 	public static void main(String[] args) {
         Twosumsorted obj = new Twosumsorted();
 
-        int[] numbers = {2, 7, 11, 15};
+        int[] numbers = {0, 7, 11, 15};
         int target = 9;
 
         int[] result = obj.twosum(numbers, target);
