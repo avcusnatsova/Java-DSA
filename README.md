@@ -59,7 +59,7 @@ java FileName
 ### In an IDE
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/JavaProgramming.git
+   git clone https://github.com/avcusnatsova/Java-Programming.git
    ```
 2. Open the project folder in your IDE
 3. Navigate to any `.java` file and run it
@@ -81,7 +81,7 @@ This repository was created as part of my learning journey:
 A V Cusnat Sova
 B.E. Computer Science Engineering
 
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@avcusnatsova](https://github.com/avcusnatsova)
 
 ---
 
