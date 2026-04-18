@@ -7,7 +7,7 @@ public class BouncyNumber {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the number: ");
 		int num = sc.nextInt();
-		System.out.println(!isIncreasing(num) && !isDecreasing(num) ? "It is Bouncy number" : "It is not a bouncy Number");
+		System.out.println(!isIncreasing(num) && !isDecreasing(num) ? "It is Bouncy number" : "it is not a bouncy Number");
 		sc.close();
 	}
 	public static boolean isIncreasing(int num) {
