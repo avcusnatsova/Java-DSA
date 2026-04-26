@@ -6,6 +6,6 @@ public static void main(String[] args) {
 	d1.test();
 }
 public void test() {
-	System.out.println("test");
+	System.out.println("Test");
 }
 }
