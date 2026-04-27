@@ -8,7 +8,7 @@ public class SmallestContiguousSubarray {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the size: ");
 		int size = sc.nextInt();
-		System.out.println("Enter the elements: ");
+		System.out.println("enter the elements: ");
 		int[] arr = new int[size];
 		
 		//To Store
