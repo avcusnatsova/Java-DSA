@@ -33,8 +33,8 @@ public class FirsthalfSecondhalf {
 		int pow = powerof(10, count/2);
 		int secondhalf = num%pow;
 		int firsthalf = num/pow;
-		System.out.println("first half : " + firsthalf);
-		System.out.println("second half : " + secondhalf);
+		System.out.println("first-half : " + firsthalf);
+		System.out.println("second-half : " + secondhalf);
 	}
 
 }
