@@ -20,7 +20,7 @@ public class demo1 {
 	
 	
 	public static void main(String[] args) {
-		System.out.println("Static method of package 1.");
+		System.out.println("Static Method of package 1.");
 		demo1 d1 = new demo1();
 		System.out.println("From package 1" + demo1.a);
 		d1.method1();
