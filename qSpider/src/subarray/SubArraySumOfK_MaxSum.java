@@ -45,6 +45,7 @@ public class SubArraySumOfK_MaxSum {
 		}
 		return res;
 	}
+	
 public static int maxSum(int [] arr, int size, int k) {
 	int[] array = slidingWindow(arr,size,k);
 	int max = Integer.MIN_VALUE;
