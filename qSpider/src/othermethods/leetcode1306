@@ -8,6 +8,7 @@ class Solution {
             return true;
         }
 
+
         int jumpDistance = arr[start];
         arr[start] = -1;
         return canReach(arr, start + jumpDistance) || canReach(arr, start - jumpDistance);
