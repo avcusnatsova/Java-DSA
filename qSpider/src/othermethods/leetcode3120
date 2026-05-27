@@ -2,13 +2,8 @@ class Solution {
 
     public int numberOfSpecialChars(String word) {
 
-        // Tracks lowercase letters
         boolean[] lower = new boolean[26];
-
-        // Tracks uppercase letters
         boolean[] upper = new boolean[26];
-
-        // Traverse all characters
         for (char ch : word.toCharArray()) {
 
             // Lowercase character
