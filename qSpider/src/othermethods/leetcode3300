@@ -1,0 +1,19 @@
+class Solution {
+    public int minElement(int[] nums) {
+        int ans = Integer.MAX_VALUE;
+
+        for (int i : nums) {
+            int num = 0;
+
+            // extract digit sum using % and /
+            while (i > 0) {
+                num += i % 10;  // add last digit
+                i = i / 10;     // remove last digit
+            }
+
+            ans = Math.min(num, ans); // track minimum digit sum
+        }
+
+        return ans;
+    }
+}
