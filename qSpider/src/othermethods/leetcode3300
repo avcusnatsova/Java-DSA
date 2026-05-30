@@ -10,7 +10,6 @@ class Solution {
                 num += i % 10;  // add last digit
                 i = i / 10;     // remove last digit
             }
-
             ans = Math.min(num, ans); // track minimum digit sum
         }
 
