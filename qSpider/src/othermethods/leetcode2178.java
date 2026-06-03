@@ -16,7 +16,6 @@ public class leetcode2178 {
 	                    }
 	                }
 	            }
-
 	            return count;
 	        }
 	    }
