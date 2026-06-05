@@ -9,7 +9,7 @@ public class Laptop {
 		public void gaming() {
 			System.out.println("Playing games.");
 		}
-		
+	
 		public void browsing() {
 			System.out.println("Browsing...");
 		}
