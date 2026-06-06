@@ -7,7 +7,6 @@ class Solution {
             countmap[target[i]]++;
             countmap[arr[i]]--;
         } 
-
         for(int i : countmap){
             if(i != 0){
                 return false;
