@@ -1,6 +1,6 @@
 # ☕ JavaProgramming
 
-A comprehensive collection of Java programs written during **QSpiders training** and personal practice — covering core Java fundamentals, Object-Oriented Programming, and LeetCode problem solving.
+A comprehensive collection of Java programs written during QSpiders training and personal practice — covering core Java fundamentals, Object-Oriented Programming, and LeetCode problem solving.
 
 ---
 
