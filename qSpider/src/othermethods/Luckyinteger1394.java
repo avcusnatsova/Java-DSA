@@ -6,7 +6,6 @@ public class Luckyinteger1394 {
 
     public int findLucky(int[] arr) {
         int[] freq = new int[501];
-
         for (int num : arr) {
             freq[num]++;
         }
