@@ -8,7 +8,7 @@ A comprehensive collection of Java programs written during QSpiders training and
 
 ### 🔹 Java Basics (QSpiders Training)
 - Data types, variables, operators
-- Control flow — if/else, switch, loops
+- Control flow — if-else, switch, loops
 - Arrays (1D and 2D)
 - Methods and recursion
 - String handling
