@@ -14,7 +14,6 @@ public class leetcode1720 {
             return res;
         }
     }
-
     public static void main(String[] args) {
 
         Solution obj = new Solution();
