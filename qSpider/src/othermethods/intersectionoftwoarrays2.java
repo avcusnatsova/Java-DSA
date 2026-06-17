@@ -14,7 +14,6 @@ public class intersectionoftwoarrays2 {
 
         System.out.println("Intersection: " + Arrays.toString(result));
     }
-
     public int[] intersection(int[] nums1, int[] nums2) {
     	Arrays.sort(nums1);
         Arrays.sort(nums2);
