@@ -8,7 +8,6 @@ class Solution {
                 breaks++;
             }
         }
-
         return breaks <= 1;
     }
 }
