@@ -16,7 +16,6 @@ public class leetcode1758 {
 
         return Math.min(curr1, curr2);
     }
-
     public static void main(String[] args) {
         String s = "0100";  // Change input here
         int result = minOperations(s);
