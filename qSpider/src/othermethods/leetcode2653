@@ -2,7 +2,6 @@
         int n = nums.length;
         int[] freq = new int[51];
         ArrayList<Integer> ans = new ArrayList<>();
-
         for (int i = 0, j = 0; i < n; i++) {
             // count freq of negative numbers in current sliding windows
             if (nums[i] < 0) freq[Math.abs(nums[i])]++;
