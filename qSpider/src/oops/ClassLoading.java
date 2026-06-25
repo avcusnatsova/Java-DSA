@@ -9,7 +9,7 @@ public class ClassLoading {
 	static int x;
 	//static initializer
 	static int y = 20;
-	
+
 	//constructor
 	ClassLoading(int a){
 		this.a = a;
