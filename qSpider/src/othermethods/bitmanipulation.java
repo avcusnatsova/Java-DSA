@@ -10,7 +10,6 @@ class BitwiseComplementSolution {
         return n ^ mask;
     }
 }
-
 public class bitmanipulation {
     public static void main(String[] args) {
 
