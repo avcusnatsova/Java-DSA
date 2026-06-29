@@ -7,7 +7,6 @@ public static void main(String[] args) {
 	System.out.println(show("Welcome to java class"));
 	System.out.println(show(13.04));
 }
-
 public static int show(int a) {
 	return a;
 }
