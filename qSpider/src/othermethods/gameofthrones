@@ -1,0 +1,14 @@
+public static String gameOfThrones(String s) {
+    // Write your code here
+    int count = 0;
+    int[] freq = new int[26];
+    for(char ch : s.toCharArray()){
+        freq[ch - 'a']++;
+    }
+    for(int fq : freq){
+        if(fq % 2 != 0){
+            count++;
+        }
+    }
+return count > 1? "NO" : "YES";
+    }
