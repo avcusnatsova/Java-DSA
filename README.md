@@ -1,90 +1,134 @@
-# ☕ JavaProgramming
+# Java Programming
 
-A comprehensive collection of Java programs written during QSpiders training and personal practice — covering core Java fundamentals, Object-Oriented Programming, and LeetCode problem solving.
+A structured collection of Java programs developed through **QSpiders training and personal practice**, covering Core Java, Object-Oriented Programming, Collections, Exception Handling, and problem-solving with LeetCode.
 
----
-
-## 🚀 Topics Covered
-
-### 🔹 Java Basics (QSpiders Training)
-- Data types, variables, operators
-- Control flow — if-else, switch, loops
-- Arrays (1D and 2D)
-- Methods and recursion
-- String handling
-
-### 🔹 Object-Oriented Programming
-- Classes and Objects
-- Constructors and `this` keyword
-- Inheritance and `super` keyword
-- Method overloading and overriding
-- Interfaces and abstract classes
-- Encapsulation and access modifiers
-
-### 🔹 Collections Framework
-- ArrayList, LinkedList
-- HashMap, HashSet
-- Stack, Queue, Deque
-- Iterator usage
-
-### 🔹 Exception Handling
-- try-catch-finally
-- throw and throws
-- Custom exceptions
-
-### 🔹 LeetCode Problems
-- Arrays & Strings
-- Linked Lists
-- Trees & Graphs
-- Dynamic Programming
-- Sorting & Searching
+The repository serves as a reference for my Java learning journey and ongoing preparation for technical interviews.
 
 ---
 
-## 🛠️ How to Run
+## Topics Covered
+
+### Core Java
+
+* Data Types, Variables & Operators
+* Conditional Statements & Loops
+* 1D & 2D Arrays
+* Methods & Recursion
+* String Handling
+* Input & Output
+
+### Object-Oriented Programming
+
+* Classes & Objects
+* Constructors
+* `this` & `super` Keywords
+* Inheritance
+* Polymorphism
+* Method Overloading & Overriding
+* Abstraction
+* Interfaces
+* Encapsulation
+* Access Modifiers
+
+### Collections Framework
+
+* ArrayList
+* LinkedList
+* HashMap
+* HashSet
+* Stack
+* Queue & Deque
+* Iterators
+
+### Exception Handling
+
+* `try-catch-finally`
+* `throw` & `throws`
+* Custom Exceptions
+* Exception Hierarchy
+
+### Problem Solving
+
+* Arrays & Strings
+* Searching & Sorting
+* Two Pointers
+* Sliding Window
+* Linked Lists
+* Stacks & Queues
+* Trees & Graphs
+* Recursion & Backtracking
+* Greedy Algorithms
+* Dynamic Programming
+
+---
+
+## Learning Sources
+
+### QSpiders Training
+
+Structured classroom practice covering Core Java fundamentals, OOP, Collections, and Exception Handling.
+
+### Personal Practice
+
+Additional programs and exercises written to strengthen Java fundamentals and improve problem-solving skills.
+
+### LeetCode
+
+Java-based solutions for algorithmic problems used for **DSA and technical interview preparation**.
+
+---
+
+## How to Run
 
 ### Prerequisites
-- Java JDK 8 or higher installed
-- Any IDE (IntelliJ IDEA, Eclipse, VS Code) or terminal
 
-### Run a Program
+* Java JDK 8 or higher
+* Any Java-compatible IDE such as:
+
+  * IntelliJ IDEA
+  * Eclipse
+  * Visual Studio Code
+
+### Using the Terminal
+
+Compile a Java program:
+
 ```bash
-# Compile
 javac FileName.java
+```
 
-# Run
+Run the compiled program:
+
+```bash
 java FileName
 ```
 
-### In an IDE
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/avcusnatsova/Java-Programming.git
-   ```
-2. Open the project folder in your IDE
-3. Navigate to any `.java` file and run it
+### Using an IDE
+
+1. Clone the repository.
+2. Open the project in your preferred Java IDE.
+3. Navigate to the required `.java` file.
+4. Run the program.
 
 ---
 
-## 📌 About
+## Repository Purpose
 
-This repository was created as part of my learning journey:
+This repository documents my progression in Java, from fundamental programming concepts to object-oriented design and algorithmic problem solving.
 
-- 🏫 **QSpiders Training** — Structured Java programs from classroom sessions
-- 💻 **Personal Practice** — Self-written programs to strengthen concepts
-- 🧩 **LeetCode** — Problem-solving practice using Java
+It also serves as a practical reference while preparing for **software engineering and campus placement interviews**.
 
 ---
 
-## 👤 Author
+## Author
 
-A V Cusnat Sova
+**A V Cusnat Sova**
 B.E. Computer Science Engineering
 
-- GitHub: [@avcusnatsova](https://github.com/avcusnatsova)
+GitHub: `avcusnatsova`
 
 ---
 
-## 📄 License
+## License
 
-This repository is open for learning and reference purposes.
+This repository is intended primarily for **learning, practice, and reference purposes**.
